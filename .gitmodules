@@ -1,0 +1,3 @@
+[submodule "next"]
+    path = next
+    url = git@github.com:nebula-aac/next.git
